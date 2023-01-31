@@ -1,3 +1,6 @@
+# My Project
+Welcome to my project on Supervised learning using machine learning.  Below is my project description and wihtin the repository is my project completed using Jupyter notebooks.
+
 
 # Supervised Learning
 ## Project: Finding Donors for CharityML
